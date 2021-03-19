@@ -8,14 +8,5 @@ db.sqlite3
 git status
 On branch master
 
-No commits yet
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-        .gitignore
-        blog/
-        manage.py
-        mysite/
-        requirements.txt
 
